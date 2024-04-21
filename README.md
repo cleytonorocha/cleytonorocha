@@ -7,7 +7,9 @@ I'm Cleyton Oliveira, a java developer from Brasil 💻💻💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleyton_o_r)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531996709760)
 
+
 ![Cleyton GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleyton-ORocha&hide=contrib=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-ORocha&layout=compact&theme=dracula)
 
 </div>
 
@@ -31,6 +33,6 @@ I'm Cleyton Oliveira, a java developer from Brasil 💻💻💻
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-ORocha&layout=compact&theme=dracula)
+
 
 </div>
