@@ -11,7 +11,7 @@
  
 <div style="display : inline_block"> <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,angular,ts,mysql,postgresql,mongo,bootstrap,docker,git,rabbitmq,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,angular,ts,mysql,postgresql,mongo,bootstrap,docker,git,kafka,linux)](https://skillicons.dev)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
