@@ -1,7 +1,7 @@
 
 # Olá, eu sou Cleyton de Oliveira. 
     
-### Sou um desenvolvedor Full-Stack sempre interessado em melhores abordagens de código. Ao longo da minha jornada, adquiri experiência com diversas tecnologias e frameworks, e estou sempre buscando aprender e evoluir na área de desenvolvimento de software.
+#### Sou um desenvolvedor Full-Stack sempre interessado em melhores abordagens de código. Ao longo da minha jornada, adquiri experiência com diversas tecnologias e frameworks, sempre buscando aprender e evoluir na área de desenvolvimento de software.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
